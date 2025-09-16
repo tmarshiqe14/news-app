@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "title": "Airlines Rely on the Cloud",
+    "excerpt": "Airlines are leveraging cloud technology to streamline complex logistics, improving troubleshooting, performance monitoring, staff training, and overall operational efficiency.",
+    "content": "Airlines depend heavily on cloud computing.  It helps them manage their complex operations, including flight schedules, cargo, and staff training.  Remote systems allow for quick problem-solving and updates, ensuring everything runs smoothly.\n\nThis reliance on the cloud improves efficiency and reduces downtime.  It allows airlines to monitor performance in real-time and quickly fix any issues, leading to better service and reduced costs.  Essentially, the cloud is crucial for modern airline operations.",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=400&fit=crop&fm=jpg",
+    "publisherName": "Acm.org",
+    "publisherLogo": "https://via.placeholder.com/32x32/4F46E5/FFFFFF?text=A",
+    "authorName": "Hazel Raoult",
+    "publishedAt": "2025-09-15T18:33:06.000Z",
+    "category": "Technology",
+    "sourceUrl": "http://cacm.acm.org/blogcacm/airlines-rely-on-the-cloud/",
+    "whyItMatters": "Airlines' cloud-based logistics networks present a goldmine for AI enthusiasts.  The immense, complex datasets generated—flight data, weather patterns, passenger information—offer rich opportunities for developing and testing AI models in areas like predictive maintenance, optimized routing, and customer service personalization. This real-world application demonstrates the practical impact of AI, providing valuable learning experiences in machine learning, data analysis, and large-scale system optimization—key skills in today's rapidly evolving tech landscape.",
+    "createdAt": "2025-09-16T18:35:24.703Z",
+    "updatedAt": "2025-09-16T18:35:24.703Z"
+  },
+  {
+    "id": "2",
+    "title": "Asia PE-VC Summit 2025: Key takeaways and future opportunities in private capital",
+    "excerpt": "The Asia PE-VC Summit 2025 highlighted key trends and future opportunities in Asia's dynamic private capital market, emphasizing [insert specific key trend discussed, e.g.,  the rise of  impact investing or  the increasing role of technology].",
+    "content": "The Asia PE-VC Summit 2025 highlighted strong interest in Asian private investment.  Discussions focused on how rising interest rates and global economic uncertainty impact investment strategies.  Key themes included finding good deals in a tougher market and adapting to new technologies shaping the region's businesses.\n\nThe summit suggested that despite challenges, Asia remains attractive for private investment.  Successful strategies involved focusing on specific sectors with strong growth potential and carefully managing risk.  Opportunities were seen in sustainable technologies and digital transformation across various industries.",
+    "imageUrl": "https://techpinions.com/wp-content/uploads/2025/09/Asia-Summit-1024x585.png",
+    "publisherName": "Techpinions.com",
+    "publisherLogo": "https://via.placeholder.com/32x32/4F46E5/FFFFFF?text=T",
+    "authorName": "Julie Birkinshaw",
+    "publishedAt": "2025-09-15T18:32:00.000Z",
+    "category": "Funding",
+    "sourceUrl": "https://techpinions.com/asia-pe-vc-summit-2025-key-takeaways-and-future-opportunities-in-private-capital/",
+    "whyItMatters": "The Asia PE-VC Summit 2025 highlights massive private investment flowing into Asian AI startups.  For AI enthusiasts and learners, this translates to burgeoning job opportunities, access to cutting-edge research via funded projects, and exposure to real-world AI application deployments.  Analyzing investment trends reveals insights into promising AI subfields and future skill demands, crucial for career planning and continuous learning in this rapidly evolving tech landscape.",
+    "createdAt": "2025-09-16T18:35:27.335Z",
+    "updatedAt": "2025-09-16T18:35:27.335Z"
+  }
+]
