@@ -1,8 +1,12 @@
 # AI News Hub
+<img width="1511" height="868" alt="Screenshot 2025-09-16 at 3 58 49 PM" src="https://github.com/user-attachments/assets/f93a952c-5e5d-44d0-bd87-362a0f07c99f" />
+
 
 A modern, responsive news web application built with Next.js, TypeScript, and shadcn/ui. Features AI-powered summaries, intelligent text truncation, and a beautiful, responsive design.
 
 ## Features
+<img width="729" height="549" alt="Screenshot 2025-09-16 at 3 09 48 PM" src="https://github.com/user-attachments/assets/7c573c09-2b52-4e1e-a5c9-73919f6fc89e" />
+
 
 - **Responsive Design**: Fully responsive layout that adapts to any screen size
 - **Modern UI**: Built with shadcn/ui components for a beautiful, consistent design
@@ -13,6 +17,8 @@ A modern, responsive news web application built with Next.js, TypeScript, and sh
 - **High-Quality Images**: Optimized image loading with Next.js Image component
 
 ## Tech Stack
+<img width="1512" height="901" alt="Screenshot 2025-09-16 at 3 59 17 PM" src="https://github.com/user-attachments/assets/fdd2e669-230c-4c3a-9fa0-684b042cc6c5" />
+
 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
